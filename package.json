@@ -1,6 +1,6 @@
 {
   "name": "@moonandyou/chrome-path",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Getting path for chromium / chrome, it returns paths of chromium / chrome installed on your system",
   "license": "MIT",
   "repository": "moonandyou/chrome-path",
